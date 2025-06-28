@@ -1,0 +1,26 @@
+# Core data science libraries
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine learning libraries
+scikit-learn
+xgboost
+lightgbm
+
+# MLflow for experiment tracking
+mlflow
+
+# Streamlit for web app
+streamlit
+
+# Plotting libraries
+plotly
+
+# Utility libraries
+joblib
+scipy
+
+# Optional: For better performance
+psutil
