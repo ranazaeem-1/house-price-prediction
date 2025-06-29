@@ -31,13 +31,9 @@ venv.bak/
 .ipynb_checkpoints
 
 # MLflow
-mlruns/
 
-# Models (will be generated)
-models/*.pkl
-models/*.json
-models/*.csv
-models/*.txt
+
+
 
 # IDE
 .vscode/
