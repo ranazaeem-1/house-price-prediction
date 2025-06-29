@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/pending assignment/bda_lab/mlruns/701431117920535539/6aa529151fba48118c0f2c0c6816ca61/artifacts
+end_time: 1751150248058
+entry_point_name: ''
+experiment_id: '701431117920535539'
+lifecycle_stage: active
+run_id: 6aa529151fba48118c0f2c0c6816ca61
+run_name: RandomForest_AutoML
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751150242405
+status: 3
+tags: []
+user_id: '786'

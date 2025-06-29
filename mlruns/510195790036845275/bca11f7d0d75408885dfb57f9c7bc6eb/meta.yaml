@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/pending assignment/bda_lab/mlruns/510195790036845275/bca11f7d0d75408885dfb57f9c7bc6eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '510195790036845275'
+lifecycle_stage: active
+run_id: bca11f7d0d75408885dfb57f9c7bc6eb
+run_name: XGBoost-Tuning
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751147896488
+status: 1
+tags: []
+user_id: '786'

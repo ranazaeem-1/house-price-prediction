@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/pending assignment/bda_lab/mlruns/701431117920535539/b4dfc9dfaa424164b4099461e0e74579/artifacts
+end_time: 1751150153103
+entry_point_name: ''
+experiment_id: '701431117920535539'
+lifecycle_stage: active
+run_id: b4dfc9dfaa424164b4099461e0e74579
+run_name: XGBoost_AutoML
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751150145454
+status: 3
+tags: []
+user_id: '786'

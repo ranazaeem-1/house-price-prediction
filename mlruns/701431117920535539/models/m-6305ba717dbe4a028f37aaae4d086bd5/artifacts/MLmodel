@@ -1,0 +1,37 @@
+artifact_path: file:///d:/pending assignment/bda_lab/mlruns/701431117920535539/models/m-6305ba717dbe4a028f37aaae4d086bd5/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.2
+is_signature_from_type_hint: false
+mlflow_version: 3.1.0
+model_id: m-6305ba717dbe4a028f37aaae4d086bd5
+model_size_bytes: 852639
+model_uuid: m-6305ba717dbe4a028f37aaae4d086bd5
+prompts: null
+run_id: 1d80ea3af5524f369a947a8479d4de2e
+signature:
+  inputs: '[{"type": "long", "name": "Area", "required": true}, {"type": "long", "name":
+    "Bedrooms", "required": true}, {"type": "long", "name": "Bathrooms", "required":
+    true}, {"type": "long", "name": "Floors", "required": true}, {"type": "long",
+    "name": "Age", "required": true}, {"type": "double", "name": "PricePerSqFt", "required":
+    true}, {"type": "long", "name": "TotalRooms", "required": true}, {"type": "boolean",
+    "name": "Location_Rural", "required": true}, {"type": "boolean", "name": "Location_Suburban",
+    "required": true}, {"type": "boolean", "name": "Location_Urban", "required": true},
+    {"type": "boolean", "name": "Condition_Fair", "required": true}, {"type": "boolean",
+    "name": "Condition_Good", "required": true}, {"type": "boolean", "name": "Condition_Poor",
+    "required": true}, {"type": "boolean", "name": "Garage_Yes", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-06-28 22:36:05.362653'

@@ -1,0 +1,14 @@
+Area
+Bedrooms
+Bathrooms
+Floors
+Age
+PricePerSqFt
+TotalRooms
+Location_Rural
+Location_Suburban
+Location_Urban
+Condition_Fair
+Condition_Good
+Condition_Poor
+Garage_Yes

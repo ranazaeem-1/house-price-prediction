@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/pending assignment/bda_lab/mlruns/701431117920535539/1d80ea3af5524f369a947a8479d4de2e/artifacts
+end_time: 1751150170894
+entry_point_name: ''
+experiment_id: '701431117920535539'
+lifecycle_stage: active
+run_id: 1d80ea3af5524f369a947a8479d4de2e
+run_name: LightGBM_AutoML
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751150164864
+status: 3
+tags: []
+user_id: '786'

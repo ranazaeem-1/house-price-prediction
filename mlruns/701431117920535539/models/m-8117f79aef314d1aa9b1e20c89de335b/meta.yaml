@@ -1,0 +1,10 @@
+artifact_location: file:///d:/pending assignment/bda_lab/mlruns/701431117920535539/models/m-8117f79aef314d1aa9b1e20c89de335b/artifacts
+creation_timestamp: 1751150243458
+experiment_id: '701431117920535539'
+last_updated_timestamp: 1751150248046
+model_id: m-8117f79aef314d1aa9b1e20c89de335b
+model_type: null
+name: model
+source_run_id: 6aa529151fba48118c0f2c0c6816ca61
+status: 2
+status_message: null
